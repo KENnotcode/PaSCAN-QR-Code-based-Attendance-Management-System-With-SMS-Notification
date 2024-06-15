@@ -15,7 +15,7 @@ PaSCAN is a comprehensive attendance management system designed to simplify and 
 
 ## Prerequisites
 Ensure you have the following installed:
-- **Python 3.x:** Ensure that you have the latest python installed.  (<a  href="[https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe](https://www.python.org/downloads/)">Download the Latest Python</a>)
+- **Python 3.x:** Ensure that you have the latest python installed.   (<a href="[https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/](https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe](https://www.python.org/downloads/))">Download All-in-one Visual C++ Redistributable Here</a>)
 - **Pip Modules:**
   - colorama==0.4.6
   - numpy==1.26.4
