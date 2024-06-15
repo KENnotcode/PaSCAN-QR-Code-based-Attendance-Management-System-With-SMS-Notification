@@ -115,4 +115,7 @@ For any questions or feedback, please contact:
 
 ---
 
+## NOTE!!
+ Make sure to configure all the necessary and required fields in the config.ini file.
+
 Feel free to customize this README file as needed. Add specific details about the technologies used, any additional features, and any other relevant information to provide a comprehensive overview of your project.
