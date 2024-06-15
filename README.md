@@ -79,6 +79,7 @@ To set up the project locally, follow these steps:
    ```python
    python PaSCAN QR Code-based Attendance Management System WIth SMS Notification.py
    ```
+    Or simple click the start button in Visual Studio Code
 
 5. In the window that opens, click on 'Configure PaSCAN values'. Enter required values. Restart application using the above command.
 
