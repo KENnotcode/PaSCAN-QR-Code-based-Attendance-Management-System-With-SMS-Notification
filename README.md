@@ -87,7 +87,7 @@ To set up the project locally, follow these steps:
 
 7. Make sure you have a webcam or camera connected and installed on your system. PaSCAN uses primary camera for capturing sessions, make sure its not being used by another application. (Try connecting through different ports if you're using an external webcam)
 
-8. Start START Login Monitor.
+8. Click START Login Monitor.
 
 ## Contributing
 
