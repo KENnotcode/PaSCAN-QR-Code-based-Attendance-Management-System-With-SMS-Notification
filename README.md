@@ -67,6 +67,27 @@ To set up the project locally, follow these steps:
 ## Check 'Add Python 3.x to PATH' during installation.
 1. <a href="https://github.com/KENnotcode/PaSCAN-QR-Code-based-Attendance-Management-System-With-SMS-Notification/archive/master.zip">Download</a> and extract the zip file.
 
+2. Install requirements (navigate to root directory on command line). Run command:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Go to 'resources' folder and edit all the JSON files. (You may use the dummy files for testing - check 'dummy-data' directory) (Use <a href="http://jsoneditoronline.org/">this online editor</a> to check formatting errors)
+
+4. From root as present working directory, run the following command:
+
+   ```python
+   python PaSCAN QR Code-based Attendance Management System WIth SMS Notification.py
+   ```
+
+5. In the window that opens, click on 'Configure PaSCAN values'. Enter required values. Restart application using the above command.
+
+6. Generate Session Tokens and Attendee Tokens and distribute them as required.
+
+7. Make sure you have a webcam or camera connected and installed on your system. PaSCAN uses primary camera for capturing sessions, make sure its not being used by another application. (Try connecting through different ports if you're using an external webcam)
+
+8. Start START Login Monitor.
+
 ## Contributing
 
 We welcome contributions to improve this project! To contribute, please follow these steps:
