@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Masterpogeh/STI-Calbayog-intern-Final-project.git
+    git clone https://github.com/KENnotcode/PaSCAN-QR-Code-based-Attendance-Management-System-With-SMS-Notification.git
     ```
 
 2. Navigate to the project directory:
@@ -64,13 +64,8 @@ To set up the project locally, follow these steps:
     ```
 
 ## Usage
-
-To use the application, follow these steps:
-
-1. Ensure the development server is running.
-2. Open your web browser and navigate to `http://localhost:3000`.
-3. Register a new account or log in with an existing account.
-4. Explore the features of the application, such as managing inventory, processing orders, and viewing sales reports.
+## Check 'Add Python 3.x to PATH' during installation.
+1. <a href="https://github.com/KENnotcode/PaSCAN-QR-Code-based-Attendance-Management-System-With-SMS-Notification/archive/master.zip">Download</a> and extract the zip file.
 
 ## Contributing
 
